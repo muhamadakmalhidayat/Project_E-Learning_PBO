@@ -37,7 +37,7 @@ This application **must use a MySQL database**. Without the database, the applic
     Open your terminal or CMD and run the following command:
 
     ```bash
-    git clone [https://github.com/maulaibrahimsyahwi/pbo-e-learning.git](https://github.com/maulaibrahimsyahwi/pbo-e-learning.git)
+    git clone [https://github.com/muhamadakmalhidayat/project_e-learning_pbo.git](https://github.com/muhamadakmalhidayat/project_e-learning_pbo.git)
     ```
 
 2.  **Open Project:**
